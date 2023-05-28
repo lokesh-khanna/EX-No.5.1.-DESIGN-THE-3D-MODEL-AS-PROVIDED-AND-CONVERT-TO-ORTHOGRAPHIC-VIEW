@@ -36,7 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
-![ex 5 1](https://github.com/lokesh-khanna/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/119606216/ea04c771-8f51-418e-853d-edb681a43949)
+![image](https://github.com/lokesh-khanna/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/119606216/91f142e3-ffb3-4b22-bd8c-19e9026b9e42)
+
 
 
 ## RESULT:
